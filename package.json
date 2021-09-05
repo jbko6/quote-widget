@@ -10,6 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "electron": "^14.0.0",
-    "request": "^2.88.2"
-  }
+    "request": "^2.88.2",
+    "requests": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbko6/quote-widget.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbko6/quote-widget/issues"
+  },
+  "homepage": "https://github.com/jbko6/quote-widget#readme"
 }

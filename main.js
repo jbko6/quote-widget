@@ -16,7 +16,7 @@ function createWindow() {
         maxHeight: 150,
         maxWidth: 500,
         minHeight: 150,
-        minHeight: 500,
+        minWidth: 500,
         fullscreenable: false,
         frame: false,
         show: false,
